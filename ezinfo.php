@@ -10,7 +10,7 @@ class expqueueInfo
     {
         return array(
             'Name'      => 'Exponential job queue (expqueue)',
-            'Version'   => "0.1.6",
+            'Version'   => "0.1.7",
             'Author'    => '7x',
             'Copyright' => "Copyright (C) 1998 - 2026 7x & Exponential Foundation. All rights reserved.",
             'License'   => "GNU General Public License v2.0 (or any later version)",
