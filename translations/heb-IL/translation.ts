@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>No job ended in the last 24 hours.</source>
-        <translation>אף משימה לא הסתיימה ב-24 השעות האחרונות.</translation>
+        <translation>אף משימה לא הסתיימה ב־24 השעות האחרונות.</translation>
     </message>
     <message>
         <source>Jobs ended per hour over the last 24 hours; the table below has the numbers.</source>
@@ -260,11 +260,11 @@
     </message>
     <message>
         <source>Workers</source>
-        <translation>תהליכים עובדים</translation>
+        <translation>תהליכי עבודה</translation>
     </message>
     <message>
         <source>Cron part expqueue</source>
-        <translation>חלק ה-cron expqueue</translation>
+        <translation>חלק ה־cron expqueue</translation>
     </message>
     <message>
         <source>ran %t ago</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>add php runcronjobs.php -q expqueue to the crontab (every minute)</source>
-        <translation>יש להוסיף php runcronjobs.php -q expqueue ל-crontab (בכל דקה)</translation>
+        <translation>יש להוסיף php runcronjobs.php -q expqueue ל־crontab (בכל דקה)</translation>
     </message>
     <message>
         <source>systemd service</source>
@@ -336,7 +336,7 @@
     </message>
     <message>
         <source>all %n</source>
-        <translation>כל ה-%n</translation>
+        <translation>כל ה־%n</translation>
     </message>
     <message>
         <source>Requeue all</source>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>The lanes the scheduler shares the workers between (expqueue.ini [QueueSettings] Classes[], each with its [QueueClass_&lt;class&gt;]).</source>
-        <translation>המסלולים שביניהם המתזמן מחלק את תהליכי העבודה (expqueue.ini [QueueSettings] Classes[], כל אחד עם ה-[QueueClass_&lt;class&gt;] שלו).</translation>
+        <translation>המסלולים שביניהם המתזמן מחלק את תהליכי העבודה (expqueue.ini [QueueSettings] Classes[], כל אחד עם ה־[QueueClass_&lt;class&gt;] שלו).</translation>
     </message>
     <message>
         <source>Queue resources</source>
