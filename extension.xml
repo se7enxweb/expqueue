@@ -3,7 +3,7 @@
     <metadata>
         <name>Exponential job queue (expqueue)</name>
         <version>0.1.9</version>
-        <copyright>Copyright (C) 1998 - 2026 7x &amp; Exponential Foundation. All rights reserved.</copyright>
+        <copyright>Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.</copyright>
         <license>GNU General Public License v2.0 (or any later version)</license>
         <info_url>https://github.com/se7enxweb/expqueue</info_url>
         <description>A generic, database-backed job queue for Exponential: seven priority classes with fair (stride) scheduling, aging and a starvation guard, per-user and per-site quotas, per-resource concurrency limits that adapt to rate-limit hints, leases with a reaper, retries with exponential backoff and jitter, a dead letter, idempotency keys, job groups, a result checkpoint for handlers, workers for the command line, cron and systemd, an admin dashboard and a command line interface. Works on MySQL/MariaDB, PostgreSQL, SQLite, Oracle and MongoDB.</description>

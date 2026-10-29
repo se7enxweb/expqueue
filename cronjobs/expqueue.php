@@ -9,7 +9,7 @@
  *      seconds that stops as soon as nothing is ready. Run as root, the slice is started as its own process, which
  *      becomes the site user (a cron job of root must not write the queue's files as root).
  *
- * @copyright Copyright (C) 1998 - 2026 7x & Exponential Foundation. All rights reserved.
+ * @copyright Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
  * @license GNU General Public License v2.0 (or any later version)
  * @package expqueue
  */

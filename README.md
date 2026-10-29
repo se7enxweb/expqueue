@@ -32,5 +32,5 @@ Documentation: [INSTALL.md](INSTALL.md), [USAGE.md](USAGE.md) and [doc/](doc/ind
 API for producers with a worked example handler, workers (CLI, cron, systemd), admin pages, CLI, configuration,
 database per engine, troubleshooting.
 
-Copyright (C) 1998 - 2026 7x & Exponential Foundation. All rights reserved.
+Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
 Licensed under the GNU General Public License v2.0 (or any later version), see [LICENSE](LICENSE).
