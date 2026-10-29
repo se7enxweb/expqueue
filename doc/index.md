@@ -18,3 +18,4 @@
 | [changelog/0.1.4.md](changelog/0.1.4.md) | What 0.1.4 changes: translations in ten more languages |
 | [changelog/0.1.5.md](changelog/0.1.5.md) | What 0.1.5 changes: translations in eight more languages, Arabic and Hebrew among them |
 | [changelog/0.1.7.md](changelog/0.1.7.md) | What 0.1.7 changes: translations in forty-six more languages and fixes to existing ones |
+| [changelog/0.1.8.md](changelog/0.1.8.md) | What 0.1.8 changes: translations into more languages |
