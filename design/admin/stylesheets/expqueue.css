@@ -23,7 +23,7 @@
 .a4-queue-span { grid-column: 1 / -1; }
 .a4-queue .a4-card { overflow-x: auto; }
 .a4-queue .a4-card-head > h2 { display: flex; flex-wrap: wrap; align-items: center; gap: var(--a4-space-2); }
-.a4-queue .a4-card-head > h2 .a4-meta { font-weight: 400; }
+.a4-queue .a4-card-head > h2 .a4-meta { font-weight: normal; }
 .a4-queue-gap { margin: 0 0 var(--a4-space-3); }
 
 /* the chart: jobs ended per hour, done and dead stacked; heights from .a4-pct-* */
